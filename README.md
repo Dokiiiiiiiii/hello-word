@@ -12,14 +12,13 @@ my first repository
 - Third item
 `code`
 ---
-[title](https://www.baidu.com)
-![alt text](image.jpg)
-
+[title](https://www.baidu.com.
 ```
 {
    "FirstName": "Doki",
    "age": 21
 }
+```
 ==very important words==.
 H~2~o
 X^2^
